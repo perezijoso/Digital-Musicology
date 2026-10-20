@@ -5,4 +5,4 @@ This is my private repo for exploration of digital musicology.
 list here a collection of subcategories of digital musicology
 
 ## Bibliography
-**Pugin, Laurent Xavier***. The Challenge of Data in Digital Musicology. 2015.
+**Pugin, Laurent Xavier**. The Challenge of Data in Digital Musicology. 2015.
